@@ -1,4 +1,4 @@
-# Pixel 7a Monkey Test for Chrome (Fixed Version)
+# Pixel 7a Monkey Test for Chrome
 
 This script runs a Monkey test specifically on Google Chrome (`com.android.chrome`) on a Pixel 7a.
 
